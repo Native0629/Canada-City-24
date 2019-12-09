@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Aljaleya",
+    "slug": "Aljaleya",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.Aljaleya.project1"
+      
+    },
+    "android": {
+      "package": "com.Aljaleya.project",
+      "googleServicesFile": "./google-services.json",
+      "versionCode":1,
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "RECORD_AUDIO",
+        "READ_PHONE_STATE",
+        "READ_CONTACTS",
+        "INSTALL_SHORTCUT"
+      ]
+    },
+    "description": "",
+    "notification": {
+      "icon":  "./assets/images/icon.png"
+    }
+  }
+}

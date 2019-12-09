@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120919791937",
+    "firebase_url": "https://pushtest-18953.firebaseio.com",
+    "project_id": "pushtest-18953",
+    "storage_bucket": "pushtest-18953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120919791937:android:da12cd07bddb669943e9c0",
+        "android_client_info": {
+          "package_name": "com.Aljaleya.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120919791937-gpvc69gpt206uud5a4363b4lmuluqplk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQgHJcxsvHHI7RWA-Pet_DqSAlrevYdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120919791937-gpvc69gpt206uud5a4363b4lmuluqplk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
